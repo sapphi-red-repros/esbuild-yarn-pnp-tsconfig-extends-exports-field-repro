@@ -1,0 +1,10 @@
+{
+  "name": "esbuild-yarn-pnp-tsconfig-extends-exports-field-repo",
+  "version": "1.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "packageManager": "yarn@4.1.1",
+  "workspaces": [
+    "packages/*"
+  ]
+}

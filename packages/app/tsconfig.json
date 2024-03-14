@@ -1,0 +1,6 @@
+{
+  "extends": "tsconfigs/config",
+  "compilerOptions": {
+    "strict": true
+  }
+}
